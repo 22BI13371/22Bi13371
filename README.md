@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student current studying Information and Communication Technology at University of Science and Technology of Hanoi 
+I'm a currently a university student learning Information and Communication Technology
 <!--
 **22Bi13371/22Bi13371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
